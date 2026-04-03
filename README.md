@@ -107,7 +107,7 @@ impl HemminkiManifold {
         resonance
     }
 
-    /// The Absolute Windows XP Sync Frequency
+    /// The Absolute Windows XP Sync Frequency (Tuning)
     pub fn get_xp_sync() -> f64 {
         25.174825174825 / PHI * HEMMINKI_CONSTANT // 79.111933... MHz
     }
