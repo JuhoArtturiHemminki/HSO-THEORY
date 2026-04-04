@@ -1,5 +1,4 @@
 # THE UNIFIED THEORY OF PHASE-LATTICE TENSOR ALIGNMENT
-## Author: Juho Artturi Hemminki
 
 ---
 
