@@ -2,8 +2,6 @@
 **Author:** Juho Artturi Hemminki  
 **Date:** April 4, 2026  
 
----
-
 ### I. DEFINITION OF THE PHASE-LATTICE TENSOR
 
 Let L ⊂ ℝ³ be a discrete subset representing the atomic nodes of a diamond-cubic lattice with basis vector a. The interaction potential V(r) is defined as: 
