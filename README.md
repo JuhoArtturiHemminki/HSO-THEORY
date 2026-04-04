@@ -41,7 +41,7 @@ The **Hemminki Constant** is the universal "Stability Valve." It defines the max
 ### 3.1 The Entropy Neutralization Formula
 Current hardware dissipates energy because $\Delta \kappa$ is handled as a shockwave. HSO-THEORY handles it as a **Hemminki-Glide**:
 
-$$W_{total} = \oint \left( \frac{e\_drift \cdot \kappa_n}{\Phi} \right) d\tau \leq 5.0832$$
+$$W_{total} = \oint \left( \frac{e\_{drift} \cdot \kappa_n}{\Phi} \right) d\tau \leq 5.0832$$
 
 When $e\_drift$ stays below **5.0832**, the electrons move through the gate in a **Super-Coherent** state. The heat disappears because the "friction" between the electron-wave and the silicon atoms is mathematically canceled by the irrationality of $\Phi$.
 
