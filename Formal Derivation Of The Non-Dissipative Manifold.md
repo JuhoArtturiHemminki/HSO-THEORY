@@ -50,5 +50,4 @@ The relationship between the element (Matter) and the constant (Geometry) is a S
 ℳSilicon ⊗ π —(ζc)—> Non-Dissipative Manifold
 
 ---
-
-Author: Juho Artturi Hemminki
+**COPYRIGHT © 2026 JUHO ARTTURI HEMMINKI. ALL RIGHTS RESERVED.**
