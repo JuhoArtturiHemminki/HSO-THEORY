@@ -1,5 +1,6 @@
 # THE UNIFIED THEORY OF PHASE-LATTICE TENSOR ALIGNMENT
-
+**Author:** Juho Artturi Hemminki  
+**Date:** April 4, 2026  
 ---
 
 ### I. DEFINITION OF THE PHASE-LATTICE TENSOR
