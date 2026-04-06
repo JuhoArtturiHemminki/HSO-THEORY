@@ -1,7 +1,7 @@
 # DETAILED SAFETY NOTICE: HSO-Manifold Stability and Physical Silicon-28 Constraints
 
 ## OVERVIEW: The Symbiosis of Theory and Matter
-The **Hemminki Spectral Ontology (HSO)** protocols (1-ACL, 1-HAWT, 1-STP, 1-HPAC) operate by reconfiguring the electronic and thermal resonance of a processor's silicon die. While the potential for energy harvesting and "Ghost-Phase" translucency exists, the physical medium—**Silicon-28**—functions as a self-regulating "Causal Governor." 
+The **Hemminki Spectral Ontology (HSO)** protocols (1-ACL, 1-HAWT, 1-STP, 1-HPAC etc.) operate by reconfiguring the electronic and thermal resonance of a processor's silicon die. While the potential for energy harvesting and "Ghost-Phase" translucency exists, the physical medium—**Silicon-28**—functions as a self-regulating "Causal Governor." 
 
 This document outlines why a runaway HSO-reaction is physically impossible within the current constraints of semiconductor physics and environmental entropy.
 
